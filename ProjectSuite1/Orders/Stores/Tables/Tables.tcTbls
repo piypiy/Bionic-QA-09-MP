@@ -19,16 +19,14 @@
 ]>
 <Nodes version="1">
 	<Node name="root">
-		<Node name="data">
-			<Node name="{8b9b160c-378e-48ef-8db4-94815862e055}">
-				<Node name="{de16426c-37af-4824-8d2d-069478efe3e2}"/>
-			</Node>
-			<Node name="logs">
-				<Prp name="key" type="S" value="{F9186BB9-6FB5-43DF-9D13-3E08A10663BC}"/>
-				<Prp name="relpath" type="S" value="..\[KMA-TST-TRAINEE]\Notepad\Log"/>
-			</Node>
-			<Node name="variables"/>
+		<Node name="child list"/>
+		<Node name="folders">
+			<Node name="folders"/>
 		</Node>
-		<Prp name="signature" type="S" value="{49FC0C30-9EF7-4DBD-97A8-B7A00E79A2AF}"/>
+		<Node name="settings">
+			<Prp name="settingsversion" type="S" value="7.50"/>
+		</Node>
+		<Prp name="signature" type="S" value="{70FC6ED0-A122-4A26-9B64-EDDBB2F11A49}"/>
+		<Prp name="version" type="S" value="7.0"/>
 	</Node>
 </Nodes>

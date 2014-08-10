@@ -19,16 +19,14 @@
 ]>
 <Nodes version="1">
 	<Node name="root">
-		<Node name="data">
-			<Node name="{87b10a29-125b-4539-80f3-366d25d36ae0}">
-				<Prp name="relpath" type="S" value="CalcTest\CalcTest.mds.tcLS"/>
-			</Node>
-			<Node name="logs">
-				<Prp name="key" type="S" value="{238A3851-BEF1-4721-8CE8-647318AAB740}"/>
-				<Prp name="relpath" type="S" value="Log"/>
-			</Node>
-			<Node name="variables"/>
+		<Node name="child list"/>
+		<Node name="folders">
+			<Node name="folders"/>
 		</Node>
-		<Prp name="signature" type="S" value="{71078212-FAEB-4856-A901-B237C89E6B5C}"/>
+		<Node name="settings">
+			<Prp name="settingsversion" type="S" value="7.50"/>
+		</Node>
+		<Prp name="signature" type="S" value="{C3BE8E0F-FB1F-487B-9AE3-BCFEB91CBEFF}"/>
+		<Prp name="version" type="S" value="7.0"/>
 	</Node>
 </Nodes>

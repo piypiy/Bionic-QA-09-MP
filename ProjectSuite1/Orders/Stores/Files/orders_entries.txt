@@ -1,0 +1,6 @@
+Name,Street,City,State,Zip,Card
+"Ivan","Sadovaya","Kiev","Ukraine",12345,111122221111222
+"Avraam","Tserkovnaya","Jerusalem","Israel",23456,333344443333444
+"John","5th Avenue","New-York","USA",34567,555566665555666
+"Vasia","Pushkina","Moskva","Russia",45678,777788887777888
+"Mao","Liudnaya","Pekin","China",56789,999900009999000

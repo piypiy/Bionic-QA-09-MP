@@ -19,16 +19,14 @@
 ]>
 <Nodes version="1">
 	<Node name="root">
-		<Node name="data">
-			<Node name="{bbb81eb7-bbd2-4e7c-8488-988f4490fc6b}">
-				<Node name="{e60869f6-3151-4a4b-9141-96f729c52015}"/>
-			</Node>
-			<Node name="logs">
-				<Prp name="key" type="S" value="{2A0BC782-47CC-41D4-BF93-AC8A0E632D49}"/>
-				<Prp name="relpath" type="S" value="Log"/>
-			</Node>
-			<Node name="variables"/>
+		<Node name="child list"/>
+		<Node name="folders">
+			<Node name="folders"/>
 		</Node>
-		<Prp name="signature" type="S" value="{49FC0C30-9EF7-4DBD-97A8-B7A00E79A2AF}"/>
+		<Node name="settings">
+			<Prp name="settingsversion" type="S" value="7.50"/>
+		</Node>
+		<Prp name="signature" type="S" value="{B205BEB2-E15D-463E-8F95-9AF50A3E8F46}"/>
+		<Prp name="version" type="S" value="7.0"/>
 	</Node>
 </Nodes>
