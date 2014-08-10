@@ -20,14 +20,15 @@
 <Nodes version="1">
 	<Node name="root">
 		<Node name="data">
-			<Node name="kma-tst-trainee">
-				<Node name="{d63362ea-4e86-4ec5-a6ec-fbc4395321f4}">
-					<Prp name="relpath" type="S" value="[KMA-TST-TRAINEE]\ProjectSuite1.pjs.tcLS"/>
-				</Node>
-				<Prp name="network mode answer" type="B" value="-1"/>
-				<Prp name="network mode value" type="B" value="-1"/>
+			<Node name="{bbb81eb7-bbd2-4e7c-8488-988f4490fc6b}">
+				<Node name="{e60869f6-3151-4a4b-9141-96f729c52015}"/>
 			</Node>
+			<Node name="logs">
+				<Prp name="key" type="S" value="{2A0BC782-47CC-41D4-BF93-AC8A0E632D49}"/>
+				<Prp name="relpath" type="S" value="Log"/>
+			</Node>
+			<Node name="variables"/>
 		</Node>
-		<Prp name="signature" type="S" value="{1F41EABE-8BDF-4E45-9235-05A9BAFB8E9F}"/>
+		<Prp name="signature" type="S" value="{49FC0C30-9EF7-4DBD-97A8-B7A00E79A2AF}"/>
 	</Node>
 </Nodes>
